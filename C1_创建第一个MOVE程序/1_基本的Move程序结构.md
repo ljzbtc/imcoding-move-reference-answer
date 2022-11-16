@@ -30,6 +30,7 @@ fun print_to_console() {
 }
 ```
 # 模块（Modules）和 脚本（Scripts）
+## 脚本（Scripts）
 ### 练习答案 
 运行下面的代码，它会执行plus_one(99)。检查控制台输出，它会输出结果100。
 ```
